@@ -7,3 +7,6 @@ Basic web scraping, purpose is to send an email to a user if an informatic artic
 
 # 2. SocketPython
 Basic TCP server and client script
+
+# 3. DownloadGoogleImage
+Just type a query and let the script download around 100 images (if file types are correct) from Google Images
